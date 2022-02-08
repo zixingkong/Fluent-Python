@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80f4e378-f018-47b5-b87a-a344d60b5822" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_1-pythonDataModel/sample_1.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
       <recent name="$PROJECT_DIR$/chapter_1-pythonDataModel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sample_1.2">
+  <component name="RunManager" selected="Python.saple_1.1">
     <configuration name="greedy_algorithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -143,10 +143,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.saple_1.1" />
         <item itemvalue="Python.sample_1.2" />
         <item itemvalue="Python.greedy_algorithm" />
         <item itemvalue="Python.sort_function" />
-        <item itemvalue="Python.saple_1.1" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,7 @@
       <workItem from="1643550874011" duration="5448000" />
       <workItem from="1644073927246" duration="2079000" />
       <workItem from="1644284349508" duration="910000" />
-      <workItem from="1644285960245" duration="1473000" />
+      <workItem from="1644285960245" duration="3425000" />
     </task>
     <servers />
   </component>
@@ -185,7 +185,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Fluent_Python$sort_function.coverage" NAME="sort_function Coverage Results" MODIFIED="1643899779966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法图解" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$saple_1_1.coverage" NAME="saple_1.1 Coverage Results" MODIFIED="1643552448584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_1-pythonDataModel" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$saple_1_1.coverage" NAME="saple_1.1 Coverage Results" MODIFIED="1644297003140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_1-pythonDataModel" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_1_2.coverage" NAME="sample_1.2 Coverage Results" MODIFIED="1644296001534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_1-pythonDataModel" />
     <SUITE FILE_PATH="coverage/Fluent_Python$greedy_algorithm.coverage" NAME="greedy_algorithm Coverage Results" MODIFIED="1644075431234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法图解" />
   </component>
