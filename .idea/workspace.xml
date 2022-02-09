@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80f4e378-f018-47b5-b87a-a344d60b5822" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.21.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,8 +64,8 @@
       <recent name="$PROJECT_DIR$/chapter_1-pythonDataModel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sample_2.11">
-    <configuration name="sample_2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.sample_2.21">
+    <configuration name="sample_2.12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +78,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sample_2.11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sample_2.17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,7 +100,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sample_2.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sample_2.18" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +122,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.18.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sample_2.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sample_2.20" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +144,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +153,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sample_2.9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sample_2.21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +166,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_2-arraysOfSequences/sample_2.21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sample_2.11" />
-        <item itemvalue="Python.sample_2.9" />
-        <item itemvalue="Python.sample_2.7" />
-        <item itemvalue="Python.sample_2.5" />
-        <item itemvalue="Python.sample_2.1" />
+        <item itemvalue="Python.sample_2.21" />
+        <item itemvalue="Python.sample_2.20" />
+        <item itemvalue="Python.sample_2.18" />
+        <item itemvalue="Python.sample_2.17" />
+        <item itemvalue="Python.sample_2.12" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +199,8 @@
       <workItem from="1643550874011" duration="5448000" />
       <workItem from="1644073927246" duration="2079000" />
       <workItem from="1644284349508" duration="910000" />
-      <workItem from="1644285960245" duration="8713000" />
+      <workItem from="1644285960245" duration="9510000" />
+      <workItem from="1644389947739" duration="5220000" />
     </task>
     <servers />
   </component>
@@ -216,13 +221,18 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_1.coverage" NAME="sample_2.1 Coverage Results" MODIFIED="1644371371433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$sort_function.coverage" NAME="sort_function Coverage Results" MODIFIED="1643899779966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法图解" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_7.coverage" NAME="sample_2.7 Coverage Results" MODIFIED="1644373199669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_20.coverage" NAME="sample_2.20 Coverage Results" MODIFIED="1644406208483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
     <SUITE FILE_PATH="coverage/Fluent_Python$saple_1_1.coverage" NAME="saple_1.1 Coverage Results" MODIFIED="1644297003140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_1-pythonDataModel" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$greedy_algorithm.coverage" NAME="greedy_algorithm Coverage Results" MODIFIED="1644075431234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法图解" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_17.coverage" NAME="sample_2.17 Coverage Results" MODIFIED="1644404958289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_18.coverage" NAME="sample_2.18 Coverage Results" MODIFIED="1644405598470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sort_function.coverage" NAME="sort_function Coverage Results" MODIFIED="1643899779966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法图解" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_9.coverage" NAME="sample_2.9 Coverage Results" MODIFIED="1644373995254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_12.coverage" NAME="sample_2.12 Coverage Results" MODIFIED="1644403865713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_1_2.coverage" NAME="sample_1.2 Coverage Results" MODIFIED="1644296001534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_1-pythonDataModel" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_11.coverage" NAME="sample_2.11 Coverage Results" MODIFIED="1644383790050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_5.coverage" NAME="sample_2.5 Coverage Results" MODIFIED="1644371849459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
-    <SUITE FILE_PATH="coverage/Fluent_Python$greedy_algorithm.coverage" NAME="greedy_algorithm Coverage Results" MODIFIED="1644075431234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法图解" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_21.coverage" NAME="sample_2.21 Coverage Results" MODIFIED="1644406810560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
   </component>
 </project>
