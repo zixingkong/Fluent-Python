@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80f4e378-f018-47b5-b87a-a344d60b5822" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/bingdundun.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions/promotions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions/sample_6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions/sample_6.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions/sample_6.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions/sample_6.7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,95 +64,7 @@
       <recent name="$PROJECT_DIR$/chapter_1-pythonDataModel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sample_5.26">
-    <configuration name="sample_5.10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fluent-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_5-firstClassFunction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sample_5.23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fluent-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_5-firstClassFunction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.23.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sample_5.24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fluent-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_5-firstClassFunction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.24.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sample_5.25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fluent-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_5-firstClassFunction" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_5-firstClassFunction/sample_5.25.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sample_6.7">
     <configuration name="sample_5.26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,13 +87,101 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sample_6.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fluent-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions/sample_6.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample_6.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fluent-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions/sample_6.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample_6.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fluent-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions/sample_6.6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample_6.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fluent-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions/sample_6.7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sample_6.7" />
+        <item itemvalue="Python.sample_6.6" />
+        <item itemvalue="Python.sample_6.3" />
+        <item itemvalue="Python.sample_6.1" />
         <item itemvalue="Python.sample_5.26" />
-        <item itemvalue="Python.sample_5.25" />
-        <item itemvalue="Python.sample_5.24" />
-        <item itemvalue="Python.sample_5.23" />
-        <item itemvalue="Python.sample_5.10" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +201,7 @@
       <workItem from="1644284349508" duration="910000" />
       <workItem from="1644285960245" duration="9510000" />
       <workItem from="1644389947739" duration="13983000" />
-      <workItem from="1644662937364" duration="8051000" />
+      <workItem from="1644662937364" duration="13072000" />
     </task>
     <servers />
   </component>
@@ -228,7 +221,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_6_3.coverage" NAME="sample_6.3 Coverage Results" MODIFIED="1644754825725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_5_8.coverage" NAME="sample_5.8 Coverage Results" MODIFIED="1644666063281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5-firstClassFunction" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_6_6.coverage" NAME="sample_6.6 Coverage Results" MODIFIED="1644755202683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_20.coverage" NAME="sample_2.20 Coverage Results" MODIFIED="1644406208483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
     <SUITE FILE_PATH="coverage/Fluent_Python$saple_1_1.coverage" NAME="saple_1.1 Coverage Results" MODIFIED="1644297003140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_1-pythonDataModel" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_5_26.coverage" NAME="sample_5.26 Coverage Results" MODIFIED="1644671144841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5-firstClassFunction" />
@@ -252,7 +247,9 @@
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_9.coverage" NAME="sample_2.9 Coverage Results" MODIFIED="1644373995254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_5_9.coverage" NAME="sample_5.9 Coverage Results" MODIFIED="1644666656711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5-firstClassFunction" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_12.coverage" NAME="sample_2.12 Coverage Results" MODIFIED="1644403865713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_6_7.coverage" NAME="sample_6.7 Coverage Results" MODIFIED="1644755741705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_21.coverage" NAME="sample_2.21 Coverage Results" MODIFIED="1644406810560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_6_1.coverage" NAME="sample_6.1 Coverage Results" MODIFIED="1644753675531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_5_10.coverage" NAME="sample_5.10 Coverage Results" MODIFIED="1644669115968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5-firstClassFunction" />
   </component>
 </project>
