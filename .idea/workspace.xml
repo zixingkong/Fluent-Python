@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80f4e378-f018-47b5-b87a-a344d60b5822" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_8-ObjectReferencesMutabilityAndRecycling/sample_8.11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_8-ObjectReferencesMutabilityAndRecycling/sample_8.16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_9-APythonicObject/memtest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_9-APythonicObject/sample_9.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_9-APythonicObject/sample_9_2_Vector2d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_9-APythonicObject/sample_9_2_slots_Vector2d.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,29 +63,7 @@
       <recent name="$PROJECT_DIR$/chapter_1-pythonDataModel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sample_8.16">
-    <configuration name="sample_7.21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fluent-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_7-FunctionDecoratorsAndClosures" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_7-FunctionDecoratorsAndClosures/sample_7.21.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sample_9.4">
     <configuration name="sample_7.23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -172,13 +152,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sample_9.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fluent-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_9-APythonicObject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_9-APythonicObject/sample_9.4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sample_9.4" />
         <item itemvalue="Python.sample_8.16" />
         <item itemvalue="Python.sample_8.11" />
         <item itemvalue="Python.sample_7.25" />
         <item itemvalue="Python.sample_7.23" />
-        <item itemvalue="Python.sample_7.21" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +200,7 @@
       <workItem from="1644284349508" duration="910000" />
       <workItem from="1644285960245" duration="9510000" />
       <workItem from="1644389947739" duration="13983000" />
-      <workItem from="1644662937364" duration="27957000" />
+      <workItem from="1644662937364" duration="33369000" />
     </task>
     <servers />
   </component>
@@ -246,6 +248,7 @@
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_5_1.coverage" NAME="sample_5.1 Coverage Results" MODIFIED="1644666363704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5-firstClassFunction" />
     <SUITE FILE_PATH="coverage/Fluent_Python$greedy_algorithm.coverage" NAME="greedy_algorithm Coverage Results" MODIFIED="1644075431234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法图解" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_5_25.coverage" NAME="sample_5.25 Coverage Results" MODIFIED="1644670752142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5-firstClassFunction" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_9_4.coverage" NAME="sample_9.4 Coverage Results" MODIFIED="1644976204442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9-APythonicObject" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_7_8.coverage" NAME="sample_7.8 Coverage Results" MODIFIED="1644825288280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_7-FunctionDecoratorsAndClosures" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_18.coverage" NAME="sample_2.18 Coverage Results" MODIFIED="1644405598470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_5_24.coverage" NAME="sample_5.24 Coverage Results" MODIFIED="1644670366964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5-firstClassFunction" />
