@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80f4e378-f018-47b5-b87a-a344d60b5822" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_10-SequenceHackingHashingAndSlicing/sample_10.10_vector_v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10-SequenceHackingHashingAndSlicing/sample_10.12_vector_v4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10-SequenceHackingHashingAndSlicing/sample_10.16_vector_v5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10-SequenceHackingHashingAndSlicing/sample_10.2_vector_v1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_10-SequenceHackingHashingAndSlicing/sample_10.2_vector_v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_11-Interfaces-FromProtocolsToABCs/sample_11.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_11-Interfaces-FromProtocolsToABCs/sample_11.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_11-Interfaces-FromProtocolsToABCs/sample_11.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_11-Interfaces-FromProtocolsToABCs/sample_11.8.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_11-Interfaces-FromProtocolsToABCs/sample_11.8.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter_10-SequenceHackingHashingAndSlicing" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -225,6 +223,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_6_3.coverage" NAME="sample_6.3 Coverage Results" MODIFIED="1644754825725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_11_11.coverage" NAME="sample_11.11 Coverage Results" MODIFIED="1645267525881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_11-Interfaces-FromProtocolsToABCs" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_5_8.coverage" NAME="sample_5.8 Coverage Results" MODIFIED="1644666063281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5-firstClassFunction" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_6_6.coverage" NAME="sample_6.6 Coverage Results" MODIFIED="1644755202683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_7_1.coverage" NAME="sample_7.1 Coverage Results" MODIFIED="1644819877961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_7-FunctionDecoratorsAndClosures" />
@@ -241,6 +240,7 @@
     <SUITE FILE_PATH="coverage/Fluent_Python$sort_function.coverage" NAME="sort_function Coverage Results" MODIFIED="1643899779966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法图解" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_7_23.coverage" NAME="sample_7.23 Coverage Results" MODIFIED="1644835449864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_7-FunctionDecoratorsAndClosures" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_7_21.coverage" NAME="sample_7.21 Coverage Results" MODIFIED="1644831546105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_7-FunctionDecoratorsAndClosures" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_11_14_tombolist.coverage" NAME="sample_11_14_tombolist Coverage Results" MODIFIED="1645269397186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_11-Interfaces-FromProtocolsToABCs" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_1_2.coverage" NAME="sample_1.2 Coverage Results" MODIFIED="1644296001534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_1-pythonDataModel" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_11.coverage" NAME="sample_2.11 Coverage Results" MODIFIED="1644383790050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_5.coverage" NAME="sample_2.5 Coverage Results" MODIFIED="1644371849459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
@@ -251,6 +251,7 @@
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_7.coverage" NAME="sample_2.7 Coverage Results" MODIFIED="1644373199669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_5_1.coverage" NAME="sample_5.1 Coverage Results" MODIFIED="1644666363704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5-firstClassFunction" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_10_2_vector_v2.coverage" NAME="sample_10.2_vector_v2 Coverage Results" MODIFIED="1645096670283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_10-SequenceHackingHashingAndSlicing" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_11_3.coverage" NAME="sample_11.3 Coverage Results" MODIFIED="1645160385872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_11-Interfaces-FromProtocolsToABCs" />
     <SUITE FILE_PATH="coverage/Fluent_Python$greedy_algorithm.coverage" NAME="greedy_algorithm Coverage Results" MODIFIED="1644075431234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法图解" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_5_25.coverage" NAME="sample_5.25 Coverage Results" MODIFIED="1644670752142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5-firstClassFunction" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_9_4.coverage" NAME="sample_9.4 Coverage Results" MODIFIED="1644976204442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_9-APythonicObject" />
