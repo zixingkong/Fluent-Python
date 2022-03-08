@@ -2,25 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80f4e378-f018-47b5-b87a-a344d60b5822" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_1_sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_4_sentence_iter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_5_sentence_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_7_sentence_gen2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_9_sentence_genexp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_4_13_aritprog_v3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/yield_from.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_15-ContextManagersAndElseBlocks/mirror.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_15-ContextManagersAndElseBlocks/sample_15_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_15-ContextManagersAndElseBlocks/sample_15_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_15-ContextManagersAndElseBlocks/sample_15_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter_15-ContextManagersAndElseBlocks/sample_15_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,11 +56,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chapter_15-ContextManagersAndElseBlocks" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter_15-ContextManagersAndElseBlocks" />
       <recent name="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators" />
       <recent name="$PROJECT_DIR$/chapter_10-SequenceHackingHashingAndSlicing" />
     </key>
@@ -82,29 +69,7 @@
       <recent name="$PROJECT_DIR$/chapter_1-pythonDataModel" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.yield_from">
-    <configuration name="sample_14_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Fluent-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_11.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.sample_15_5">
     <configuration name="sample_14_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sample_14_9_sentence_genexp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sample_15_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Fluent-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,12 +122,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_15-ContextManagersAndElseBlocks" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators/sample_14_9_sentence_genexp.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_15-ContextManagersAndElseBlocks/sample_15_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample_15_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Fluent-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter_15-ContextManagersAndElseBlocks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter_15-ContextManagersAndElseBlocks/sample_15_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sample_15_5" />
+        <item itemvalue="Python.sample_15_2" />
         <item itemvalue="Python.yield_from" />
         <item itemvalue="Python.sample_14_18" />
         <item itemvalue="Python.sample_14_14" />
-        <item itemvalue="Python.sample_14_11" />
-        <item itemvalue="Python.sample_14_9_sentence_genexp" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +207,10 @@
       <workItem from="1644285960245" duration="9510000" />
       <workItem from="1644389947739" duration="13983000" />
       <workItem from="1644662937364" duration="42867000" />
+      <workItem from="1645588294972" duration="213000" />
+      <workItem from="1645591051646" duration="3259000" />
+      <workItem from="1646617116692" duration="34000" />
+      <workItem from="1646617301254" duration="581000" />
     </task>
     <servers />
   </component>
@@ -266,6 +257,7 @@
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_20.coverage" NAME="sample_2.20 Coverage Results" MODIFIED="1644406208483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_5_26.coverage" NAME="sample_5.26 Coverage Results" MODIFIED="1644671144841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_5-firstClassFunction" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_14_11.coverage" NAME="sample_14_11 Coverage Results" MODIFIED="1645418266023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_15_2.coverage" NAME="sample_15_2 Coverage Results" MODIFIED="1645505166614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_15-ContextManagersAndElseBlocks" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_17.coverage" NAME="sample_2.17 Coverage Results" MODIFIED="1644404958289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_14_14.coverage" NAME="sample_14_14 Coverage Results" MODIFIED="1645419260354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_14-IterablesIteratorsAndGenerators" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_7_20.coverage" NAME="sample_7.20 Coverage Results" MODIFIED="1644830483897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_7-FunctionDecoratorsAndClosures" />
@@ -289,6 +281,7 @@
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_2_9.coverage" NAME="sample_2.9 Coverage Results" MODIFIED="1644373995254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_2-arraysOfSequences" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_8_11.coverage" NAME="sample_8.11 Coverage Results" MODIFIED="1644900880420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_8-ObjectReferencesMutabilityAndRecycling" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_6_7.coverage" NAME="sample_6.7 Coverage Results" MODIFIED="1644755741705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_6-DesignPatternsWithFirst-ClassFunctions" />
+    <SUITE FILE_PATH="coverage/Fluent_Python$sample_15_5.coverage" NAME="sample_15_5 Coverage Results" MODIFIED="1646307283845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_15-ContextManagersAndElseBlocks" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_12_4_diamond.coverage" NAME="sample_12_4_diamond Coverage Results" MODIFIED="1645351134192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_12-Inheritance-ForGoodOrForWorse" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_7_2.coverage" NAME="sample_7.2 Coverage Results" MODIFIED="1644822575401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_7-FunctionDecoratorsAndClosures" />
     <SUITE FILE_PATH="coverage/Fluent_Python$sample_8_16.coverage" NAME="sample_8.16 Coverage Results" MODIFIED="1644923273378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter_8-ObjectReferencesMutabilityAndRecycling" />
