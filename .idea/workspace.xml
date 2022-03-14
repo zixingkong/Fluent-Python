@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80f4e378-f018-47b5-b87a-a344d60b5822" name="Changes" comment="">
+<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/chapter_16-Coroutines/sample_16_18.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/chapter_16-Coroutines/sample_16_19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Fluent-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Fluent-Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+=======
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -210,9 +213,13 @@
       <workItem from="1645588294972" duration="213000" />
       <workItem from="1645591051646" duration="3259000" />
       <workItem from="1646617116692" duration="34000" />
+<<<<<<< Updated upstream
       <workItem from="1646617301254" duration="7056000" />
       <workItem from="1646833989014" duration="741000" />
       <workItem from="1646834750639" duration="1240000" />
+=======
+      <workItem from="1646617301254" duration="7823000" />
+>>>>>>> Stashed changes
     </task>
     <servers />
   </component>
