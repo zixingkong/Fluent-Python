@@ -9,9 +9,8 @@
 from http import HTTPStatus
 
 import requests
+from flags2_common import save_flag, Result
 
-
-from chapter_17_3_flags_threadpool import save_flag
 
 def get_flag(base_url, cc):
     url = '{}/{cc}/{cc}.gif'.format(base_url, cc=cc.lower())

@@ -10,8 +10,10 @@ import collections
 from http import HTTPStatus
 
 import requests
+from tqdm import tqdm
 
-from chapter_17_3_flags_threadpool import download_one
+from sample_17_12_flags2_sequential import download_one
+
 
 def download_many(cc_list, base_url, verbose, max_req):
     counter = collections.Counter()  # ➊

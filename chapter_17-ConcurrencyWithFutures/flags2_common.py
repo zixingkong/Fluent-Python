@@ -31,7 +31,7 @@ SERVERS = {
     'ERROR': 'http://localhost:8003/flags',
 }
 DEFAULT_SERVER = 'LOCAL'
-DEST_DIR = 'downloads/'
+DEST_DIR = '../downloads/'
 COUNTRY_CODES_FILE = 'country_codes.txt'
 
 
