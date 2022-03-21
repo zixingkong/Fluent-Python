@@ -42,11 +42,15 @@
 #                 status = res.status
 #                 counter[status] += 1
 #     return counter
+#
 # def download_many(cc_list, base_url, verbose, concur_req):
 #     loop = asyncio.get_event_loop()
 #     coro = downloader_coro(cc_list, base_url, verbose, concur_req)
 #     counts = loop.run_until_complete(coro)
 #     loop.close()
 #     return counts
+#
 # if __name__ == '__main__':
 #     main(download_many, DEFAULT_CONCUR_REQ, MAX_CONCUR_REQ)
+#
+#
